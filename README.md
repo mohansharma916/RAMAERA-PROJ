@@ -5,7 +5,7 @@ This Project is Working Perfectcly
 
 
 Not able to define ENUM properties for kyc because it is not supported by SQLite,
-i have connected prisma regarding that as well , scrrenschot attached Below 
+i have contacted  prisma team regarding that as well , scrrenshot attached Below 
 ![Ramaera](https://user-images.githubusercontent.com/77909856/200988149-88561edf-f878-44f7-931d-265fe043f010.JPG)
 
 
